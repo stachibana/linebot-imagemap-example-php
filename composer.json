@@ -1,0 +1,7 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^2.1",
+        "silex/silex": "^2.1",
+        "ext-gd": "^0.0.0"
+    }
+}
